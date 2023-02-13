@@ -1,1 +1,1 @@
-<img scr="../public/image/poster.png" />
+<img scr="https://github.com/Ishwar608/Movies-Poster/blob/master/public/Image/poster.png" />
