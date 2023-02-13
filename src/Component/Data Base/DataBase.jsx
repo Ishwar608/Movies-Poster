@@ -126,7 +126,7 @@ export const myApiData = [
     "Language": "English, French",
     "Country": "USA",
     "Awards": "Nominated for 5 Oscars. Another 35 wins & 154 nominations.",
-    "Poster": "https://wallpapercave.com/w/wp1996229",
+    "Poster": "https://wallpapercave.com/wp/wp1996229.jpg",
     "Metascore": "75",
     "imdbRating": "8.2",
     "imdbVotes": "786,985",
